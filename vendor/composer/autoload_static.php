@@ -74,8 +74,8 @@ class ComposerStaticInitf72ce55cfce21eae45fdcb0af0e536ad
         ),
         'Kirby\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/kirby/src',
-            1 => __DIR__ . '/..' . '/getkirby/composer-installer/src',
+            0 => __DIR__ . '/..' . '/getkirby/composer-installer/src',
+            1 => __DIR__ . '/../..' . '/kirby/src',
         ),
     );
 
@@ -298,6 +298,11 @@ class ComposerStaticInitf72ce55cfce21eae45fdcb0af0e536ad
         'Kirby\\Parsley\\Schema' => __DIR__ . '/../..' . '/kirby/src/Parsley/Schema.php',
         'Kirby\\Parsley\\Schema\\Blocks' => __DIR__ . '/../..' . '/kirby/src/Parsley/Schema/Blocks.php',
         'Kirby\\Parsley\\Schema\\Plain' => __DIR__ . '/../..' . '/kirby/src/Parsley/Schema/Plain.php',
+        'Kirby\\Sane\\Handler' => __DIR__ . '/../..' . '/kirby/src/Sane/Handler.php',
+        'Kirby\\Sane\\Sane' => __DIR__ . '/../..' . '/kirby/src/Sane/Sane.php',
+        'Kirby\\Sane\\Svg' => __DIR__ . '/../..' . '/kirby/src/Sane/Svg.php',
+        'Kirby\\Sane\\Svgz' => __DIR__ . '/../..' . '/kirby/src/Sane/Svgz.php',
+        'Kirby\\Sane\\Xml' => __DIR__ . '/../..' . '/kirby/src/Sane/Xml.php',
         'Kirby\\Session\\AutoSession' => __DIR__ . '/../..' . '/kirby/src/Session/AutoSession.php',
         'Kirby\\Session\\FileSessionStore' => __DIR__ . '/../..' . '/kirby/src/Session/FileSessionStore.php',
         'Kirby\\Session\\Session' => __DIR__ . '/../..' . '/kirby/src/Session/Session.php',
