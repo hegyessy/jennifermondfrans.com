@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Palanquin-Regular";
+  src: url("/assets/fonts/Palanquin-Regular.woff");
+}
+
+@font-face {
+  font-family: "Palanquin-Bold";
+  src: url("/assets/fonts/Palanquin-Bold.woff");
+}
+
+body {
+  font-family: "Palanquin-Regular";
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Palanquin-Bold";
+}
