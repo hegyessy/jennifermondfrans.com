@@ -18,7 +18,7 @@
         "source": "https://github.com/getkirby/starterkit"
     },
     "require": {
-        "php": ">=7.1.0",
+        "php": "^8.2.0",
         "getkirby/cms": "^3.0"
     },
     "scripts": {
@@ -28,6 +28,9 @@
         ]
     },
     "config": {
-        "optimize-autoloader": true
+        "optimize-autoloader": true,
+        "allow-plugins": {
+            "getkirby/composer-installer": true
+        }
     }
 }
