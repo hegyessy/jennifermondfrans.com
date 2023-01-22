@@ -12,6 +12,7 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 ARG DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get install software-properties-common
+RUN apt-get update
 RUN dpkg -l | grep php | tee packages.txt
 RUN add-apt-repository -y ppa:ondrej/php
 
