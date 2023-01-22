@@ -22,7 +22,7 @@ RUN apt-get update && apt-get install --no-install-recommends -y \
   ca-certificates \
   git \
   php8.2 \
-  libapache2-mod-php \
+  libapache2-mod-php8.2 \
   php8.2-curl \
   php8.2-dom \
   php8.2-gd \
