@@ -30,7 +30,6 @@ RUN apt-get update && apt-get install --no-install-recommends -y \
   php8.2-dom \
   php8.2-gd \
   php8.2-intl \
-  php8.2-json \
   php8.2-mbstring \
   php8.2-xml \
   php8.2-zip && \
