@@ -11,22 +11,26 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 # Remove annoying messages during package installation
 ARG DEBIAN_FRONTEND=noninteractive
 
+RUN apt-get install software-properties-common
+RUN dpkg -l | grep php | tee packages.txt
+RUN add-apt-repository -y ppa:ondrej/php
+
 # Install packages: web server Apache, PHP and extensions
 RUN apt-get update && apt-get install --no-install-recommends -y \
   apache2 \
   apache2-utils \
   ca-certificates \
   git \
-  php \
+  php8.2 \
   libapache2-mod-php \
-  php-curl \
-  php-dom \
-  php-gd \
-  php-intl \
-  php-json \
-  php-mbstring \
-  php-xml \
-  php-zip && \
+  php8.2-curl \
+  php8.2-dom \
+  php8.2-gd \
+  php8.2-intl \
+  php8.2-json \
+  php8.2-mbstring \
+  php8.2-xml \
+  php8.2-zip && \
   apt-get clean && rm -rf /var/lib/apt/lists/*
 
 # Copy virtual host configuration from current path onto existing 000-default.conf
