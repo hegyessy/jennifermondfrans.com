@@ -18,7 +18,6 @@ RUN dpkg -l | grep php | tee packages.txt
 RUN add-apt-repository -y ppa:ondrej/apache2
 RUN add-apt-repository -y ppa:ondrej/php
 
-
 # Install packages: web server Apache, PHP and extensions
 RUN apt-get update && apt-get install --no-install-recommends -y \
   apache2 \
