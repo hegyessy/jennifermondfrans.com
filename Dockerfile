@@ -45,7 +45,7 @@ RUN chown -R www-data:www-data /var/www/html/
 RUN a2enmod headers rewrite
 
 # Tell container to listen to port 80 at runtime
-EXPOSE 8080
+EXPOSE 80
 
 # Start Apache web server
 CMD [ "/usr/sbin/apache2ctl", "-DFOREGROUND" ]
