@@ -11,8 +11,8 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 # Remove annoying messages during package installation
 ARG DEBIAN_FRONTEND=noninteractive
 
-RUN apt-get install software-properties-common
 RUN apt-get update
+RUN apt-get install software-properties-common
 RUN dpkg -l | grep php | tee packages.txt
 RUN add-apt-repository -y ppa:ondrej/php
 
