@@ -2,7 +2,7 @@
 
 return [
   'url' => [
-  	'https://jennifermondfranscom-production.up.railway.app',
-    'http://localhost:8000'
+  	// 'https://jennifermondfranscom-production.up.railway.app',
+    // 'http://localhost:8000'
   ]
 ];
