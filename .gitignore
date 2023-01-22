@@ -46,3 +46,6 @@ Icon
 # License
 # ---------------
 /site/config/.license
+
+/kirby
+/vendor
