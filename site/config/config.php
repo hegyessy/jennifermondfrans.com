@@ -7,7 +7,7 @@ return [
     'http://localhost:80',
     'http://localhost:8000'
   ],
-  'debug'  => true,
+  'debug' => true,
   'panel' =>[
     'install' => true
   ]
