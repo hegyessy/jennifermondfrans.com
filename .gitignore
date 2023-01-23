@@ -47,7 +47,4 @@ Icon
 # ---------------
 /site/config/.license
 
-/kirby
-/vendor
-
 /assets/fonts/*
