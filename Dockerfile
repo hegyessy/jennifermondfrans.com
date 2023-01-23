@@ -47,6 +47,9 @@ RUN git clone --depth 1 https://github.com/hegyessy/jennifermondfrans.com.git /v
 # Fix files and directories ownership
 RUN chown -R www-data:www-data /var/www/html/
 
+# Copy licensed font files to image
+COPY assets/fonts /var/www/html/assets/fonts
+
 # Activate Apache modules headers & rewrite
 RUN a2enmod headers rewrite
 
