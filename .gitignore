@@ -48,4 +48,4 @@ Icon
 # ---------------
 
 /site/config/.license
-/vendor/*
+/vendor

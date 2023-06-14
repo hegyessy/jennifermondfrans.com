@@ -92,8 +92,8 @@ class ComposerStaticInit9febecbff2496b35c202818d6926a0db
         ),
         'Kirby\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/kirby/src',
-            1 => __DIR__ . '/..' . '/getkirby/composer-installer/src',
+            0 => __DIR__ . '/..' . '/getkirby/composer-installer/src',
+            1 => __DIR__ . '/../..' . '/kirby/src',
         ),
         'Composer\\Semver\\' => 
         array (
