@@ -1,0 +1,69 @@
+Title: Coco Chanel
+
+----
+
+Description: 
+
+----
+
+Date: 
+
+----
+
+Size: 18" x 24"
+
+----
+
+Medium: watersoluble wax pastel and acrylic on canvas
+
+----
+
+Price: 
+
+----
+
+Sold: yes
+
+----
+
+Toggle: false
+
+----
+
+Name: Coco Chanel
+
+----
+
+Lived: 
+
+----
+
+Profession: 
+
+----
+
+Year: 
+
+----
+
+Text: 
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 1
+
+----
+
+Uuid: efNun0WHfXBGataO

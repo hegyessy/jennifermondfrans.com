@@ -1,0 +1,45 @@
+Title: Mary
+
+----
+
+Name: She is charmingly disarming
+
+----
+
+Medium: acrylic on cardboard
+
+----
+
+Size: 22" x 28"
+
+----
+
+Price: SOLD
+
+----
+
+Description: Binary code reads: "She is charmingly disarming"
+
+----
+
+Date: 2016
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 5
+
+----
+
+Uuid: FGKOYMCCCRqEpZ3w

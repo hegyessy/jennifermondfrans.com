@@ -72,6 +72,8 @@
 	"error.blocks.min.singular": "블록을 하나 이상 추가하세요.",
 	"error.blocks.validation": "There's an error on the \"{field}\" field in block {index} using the \"{fieldset}\" block type",
 
+	"error.cache.type.invalid": "Invalid cache type \"{type}\"",
+
 	"error.email.preset.notFound": "기본 이메일 주소({name})가 없습니다.",
 
 	"error.field.converter.invalid": "컨버터({converter})가 올바르지 않습니다.",
@@ -320,7 +322,7 @@
 	"installation.issues.headline": "패널을 설치할 수 없습니다.",
 	"installation.issues.mbstring": "<code>MB String</code> 확장 모듈이 필요합니다.",
 	"installation.issues.media": "<code>/media</code> 폴더의 쓰기 권한을 확인하세요.",
-	"installation.issues.php": "<code>PHP</code> 버전이 7 이상인지 확인하세요.",
+	"installation.issues.php": "<code>PHP</code> 버전이 8 이상인지 확인하세요.",
 	"installation.issues.server": "Kirby를 실행하려면 <code>Apache</code>, <code>Nginx</code>, 또는 <code>Caddy</code>가 필요합니다.",
 	"installation.issues.sessions": "<code>/site/sessions</code> 폴더의 쓰기 권한을 확인하세요.",
 
@@ -386,7 +388,7 @@
 	"login.toggleText.password-reset.email": "암호 찾기",
 	"login.toggleText.password-reset.email-password": "로그인 화면으로",
 
-	"logout": "\ub85c\uadf8\uc544\uc6c3",
+	"logout": "로그아웃",
 
 	"menu": "메뉴",
 	"meridiem": "오전/오후",
@@ -498,7 +500,7 @@
 
 	"stats.empty": "관련 기록이 없습니다.",
 	"system.issues.content": "<code>/content</code> 폴더의 권한을 확인하세요.",
-	"system.issues.eol.kirby": "Your installed Kirby version has reached end-of-life and will not receive further security updates",
+	"system.issues.eol.kirby": "설치된 Kirby는 버전이 만료되었습니다. 더 이상 보안 업데이트를 받을 수 없습니다.",
 	"system.issues.eol.plugin": "Your installed version of the { plugin } plugin is has reached end-of-life and will not receive further security updates",
 	"system.issues.debug": "공개 서버상에서는 디버그 모드를 해제하세요.",
 	"system.issues.git": "<code>/.git</code> 폴더의 권한을 확인하세요.",

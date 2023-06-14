@@ -1,0 +1,45 @@
+Title: Marc
+
+----
+
+Name: He has a golden aura
+
+----
+
+Medium: acrylic on cardboard
+
+----
+
+Size: 22" x 28"
+
+----
+
+Price: 
+
+----
+
+Description: Binary code reads: "He has a golden aura"
+
+----
+
+Date: 2016
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 1
+
+----
+
+Uuid: MmX8G8YfV7MmTcKA

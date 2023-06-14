@@ -1,0 +1,45 @@
+Title: Brassai
+
+----
+
+Name: Brassai
+
+----
+
+Price: 
+
+----
+
+Text: 
+
+----
+
+Medium: oil on board
+
+----
+
+Size: 12" x 16"
+
+----
+
+Year: 
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 6
+
+----
+
+Uuid: YcRTIib15fCm6DXe

@@ -1,0 +1,53 @@
+Title: Where we thought...
+
+----
+
+Description: Where we thought to travel outward, we shall come to the center of our own existence
+
+----
+
+Date: 
+
+----
+
+Size: 24" x 36"
+
+----
+
+Medium: Oil on canvas
+
+----
+
+Price: 
+
+----
+
+Sold: 
+
+----
+
+Toggle: false
+
+----
+
+Name: Where we thought...
+
+----
+
+Lived: 
+
+----
+
+Profession: 
+
+----
+
+Sort: 2
+
+----
+
+Uuid: RFlQLarmuFTgrvu2
+
+----
+
+Template: painting

@@ -12,7 +12,7 @@ You can try Kirby and the Plainkit on your local machine or on a test server as 
 ### Get going
 Read our guide on [how to get started with Kirby](https://getkirby.com/docs/guide/quickstart).
 
-You can [download the latest version](https://github.com/getkirby/plainkit/archive/master.zip) of the Plainkit.  
+You can [download the latest version](https://github.com/getkirby/plainkit/archive/main.zip) of the Plainkit.  
 If you are familiar with Git, you can clone Kirby's Plainkit repository from Github.
 
     git clone https://github.com/getkirby/plainkit.git
@@ -25,10 +25,10 @@ If you are familiar with Git, you can clone Kirby's Plainkit repository from Git
 - **[Feedback](https://feedback.getkirby.com)** – You have an idea for Kirby? Share it.
 - **[Forum](https://forum.getkirby.com)** – Whenever you get stuck, don't hesitate to reach out for questions and support.
 - **[Discord](https://chat.getkirby.com)** – Hang out and meet the community.
-- **[Twitter](https://twitter.com/getkirby)** – Spread the word.
+- **[Mastodon](https://mastodon.social/@getkirby)** – Spread the word.
 - **[Instagram](https://www.instagram.com/getkirby/)** – Share your creations: #madewithkirby.
 
 ---
 
-© 2009-2020 Bastian Allgeier (Bastian Allgeier GmbH)  
+© 2009-2022 Bastian Allgeier  
 [getkirby.com](https://getkirby.com) · [License agreement](https://getkirby.com/license)

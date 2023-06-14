@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Palanquin-Regular";
+    src: url("/assets/fonts/Palanquin-Regular.woff");
+  }
+
+  @font-face {
+    font-family: "Palanquin-Bold";
+    src: url("/assets/fonts/Palanquin-Bold.woff");
+  }
+
+  * {
+    font-family: "Palanquin-Regular";
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  .font-bold {
+    font-family: "Palanquin-Bold";
+  }
+}
+
+@layer components {
+  .maximize {
+    @apply absolute left-0 right-0 bottom-0 top-0 w-screen h-screen overflow-hidden backdrop-blur-lg bg-white/[.10] flex justify-center items-center z-10;
+  }
+
+  .maximize img {
+    @apply p-0 m-0;
+  }
+
+  .pagination {
+    @apply bg-gray-100 rounded-lg p-2 inline-block text-center;
+  }
+}

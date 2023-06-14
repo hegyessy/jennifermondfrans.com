@@ -1,0 +1,52 @@
+title: Painting
+
+columns:
+  main:
+    width: 2/3
+    fields:
+      title:
+        type: text
+      description:
+        label: Letter or other longform text
+        type: textarea
+  sidebar:
+    width: 1/3
+    fields:
+      featured:
+        type: toggle
+        label: Featured Artwork
+      date:
+        label: Year Painted
+        type: text
+      size:
+        label: Dimensions
+        type: text
+      medium:
+        label: Medium
+        type: text
+      price:
+        label: Price
+        type: text
+      sold:
+        label: Sold
+        type: select
+        options:
+          yes: Sold
+          no: For Sale
+          unavailable: Not for sale
+      toggle:
+        label: Toggle for scientist fields
+        type: toggle
+      name:
+        label: Name
+        type: text
+      lived:
+        label: Years lived
+        type: text
+        when:
+          toggle: true
+      profession:
+        label: Profession
+        type: text
+        when:
+          toggle: true

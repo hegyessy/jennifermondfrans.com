@@ -1,0 +1,45 @@
+Title: Giovanni
+
+----
+
+Name: He has a trapeze in his house.
+
+----
+
+Medium: acrylic on cardboard
+
+----
+
+Size: 22" x 28"
+
+----
+
+Price: 
+
+----
+
+Description: Binary code reads: "He has a trapeze in his house"
+
+----
+
+Date: 2015
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 9
+
+----
+
+Uuid: 9tP47BTzmOd6j8Z5

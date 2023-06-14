@@ -1,0 +1,41 @@
+Title: Welcome
+
+----
+
+Name: Welcome
+
+----
+
+Price: SOLD
+
+----
+
+Text: 
+
+----
+
+Medium: oil on board
+
+----
+
+Size: 12" x 16"
+
+----
+
+Year: 
+
+----
+
+Story: 
+
+----
+
+Template: painting
+
+----
+
+Sort: 18
+
+----
+
+Uuid: wbsbKrATClStLq7P

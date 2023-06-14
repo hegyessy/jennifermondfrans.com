@@ -1,0 +1,45 @@
+Title: Red Hair
+
+----
+
+Name: Red Hair
+
+----
+
+Price: 
+
+----
+
+Text: 
+
+----
+
+Medium: oil on board
+
+----
+
+Size: 12" x 16"
+
+----
+
+Year: 
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 3
+
+----
+
+Uuid: SQ4W9a2vAKe6cHkW

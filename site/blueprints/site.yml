@@ -1,0 +1,17 @@
+title: Site
+
+sections:
+  fields:
+    fields:
+      subtitle:
+        label: Subtitle
+        type: text
+  pages:
+    type: pages
+    layout: cards
+    size: medium
+    templates:
+      - default
+      - home
+      - about
+      - collection

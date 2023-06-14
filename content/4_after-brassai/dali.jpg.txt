@@ -1,0 +1,45 @@
+Title: Salvador Dali
+
+----
+
+Name: Salvador Dali
+
+----
+
+Price: 
+
+----
+
+Text: 
+
+----
+
+Medium: oil on board
+
+----
+
+Size: 12" x 16"
+
+----
+
+Year: 
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 12
+
+----
+
+Uuid: S0sykcu64KaTzTmj

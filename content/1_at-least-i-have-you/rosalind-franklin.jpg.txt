@@ -1,0 +1,113 @@
+Title: Rosalind Franklin
+
+----
+
+Description:
+
+Dear You,
+
+I came from a family with money. I was able to go one of the few girls’ school in London that taught physics and chemistry. I was a top student, but even so, my father was against higher education for women and wanted me to a social worker.
+
+
+
+Perhaps he was envious. He always wanted to become a scientist, but World War I came and he became a college professor instead. But I would not let him deter my dream. I was determined to become a scientist. I got my degree from Cambridge and after a fellowship, went to work for British Coal. Even at my first job, I created fundamental studies and published several papers on carbon and graphite microstructures.
+
+My work got noticed and I got a job offer in Paris. It was here I learned X-ray diffraction techniques. I loved France. Our lab would have morning chats and I would serve coffee in evaporating dishes.
+
+When I got a research fellowship to set up and improve the X-ray crystallography unit at King’s College, no one had worked on it for months. I got two really good photographs that showed that DNA was a double helix. When Maurice Wilkins came back, he assumed I was a technical assistant and treated my work as his own. It was a mistake most men made. Only males were allowed in the university dining rooms, and after hours my colleagues went to men-only pubs.
+
+It was Wilkins who showed Watson and Crick my X-ray data. The data confirmed the 3-D structure that Watson and Crick had theorized for DNA. In 1953, we all published papers based on my X-ray data in the same [_Nature_]() issue.
+
+In 1962, the Nobel Prize in Physiology or Medicine was awarded to James Watson, Francis Crick, and Maurice Wilkins for solving the structure of DNA. I was not included because I died of cancer in 1958.
+
+Still, I never believed that science was about reward. It was about the work and doing science was the greatest reward.
+
+Love,
+
+Rosalind
+
+----
+
+Date: 
+
+----
+
+Size: 18" x 24"
+
+----
+
+Medium: acrylic and oil on canvas
+
+----
+
+Price: 
+
+----
+
+Sold: 
+
+----
+
+Toggle: true
+
+----
+
+Name: Rosalind Franklin
+
+----
+
+Lived: 1920-1958
+
+----
+
+Profession: Chemist and X-Ray Crystallographer
+
+----
+
+Years: 1920-1958
+
+----
+
+Year: 2016
+
+----
+
+Text:
+
+Dear You,
+
+I came from a family with money. I was able to go one of the few girls’ school in London that taught physics and chemistry. I was a top student, but even so, my father was against higher education for women and wanted me to a social worker.
+
+Perhaps he was envious. He always wanted to become a scientist, but World War I came and he became a college professor instead. But I would not let him deter my dream. I was determined to become a scientist. I got my degree from Cambridge and after a fellowship, went to work for British Coal. Even at my first job, I created fundamental studies and published several papers on carbon and graphite microstructures.
+
+My work got noticed and I got a job offer in Paris. It was here I learned X-ray diffraction techniques. I loved France. Our lab would have morning chats and I would serve coffee in evaporating dishes.
+
+When I got a research fellowship to set up and improve the X-ray crystallography unit at King’s College, no one had worked on it for months. I got two really good photographs that showed that DNA was a double helix. When Maurice Wilkins came back, he assumed I was a technical assistant and treated my work as his own. It was a mistake most men made. Only males were allowed in the university dining rooms, and after hours my colleagues went to men-only pubs.
+
+It was Wilkins who showed Watson and Crick my X-ray data. The data confirmed the 3-D structure that Watson and Crick had theorized for DNA. In 1953, we all published papers based on my X-ray data in the same Nature issue.
+
+In 1962, the Nobel Prize in Physiology or Medicine was awarded to James Watson, Francis Crick, and Maurice Wilkins for solving the structure of DNA. I was not included because I died of cancer in 1958.
+
+Still, I never believed that science was about reward. It was about the work and doing science was the greatest reward.
+
+Love, Rosalind
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Uuid: ZGANB5q6DkBzsz56
+
+----
+
+Sort: 4

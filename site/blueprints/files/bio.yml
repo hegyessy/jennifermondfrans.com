@@ -1,0 +1,7 @@
+title: Collection
+sections:
+  fields:
+    fields:
+      description:
+        label: Description
+        type: textarea

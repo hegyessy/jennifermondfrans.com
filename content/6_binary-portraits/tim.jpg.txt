@@ -1,0 +1,45 @@
+Title: Tim
+
+----
+
+Name: He has a patent for a dome that builds itself.
+
+----
+
+Medium: acrylic on cardboard
+
+----
+
+Size: 22" x 28"
+
+----
+
+Price: 
+
+----
+
+Description: Binary code reads: "He has a patent for a dome"
+
+----
+
+Date: 2015
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 7
+
+----
+
+Uuid: Q04lCANHeffHE7eQ

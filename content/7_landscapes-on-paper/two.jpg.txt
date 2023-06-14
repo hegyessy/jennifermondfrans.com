@@ -1,0 +1,57 @@
+Title: Two
+
+----
+
+Name: Eighteen
+
+----
+
+Years: 
+
+----
+
+Medium: oil on paper
+
+----
+
+Description: 
+
+----
+
+Audio: 
+
+----
+
+Text: 
+
+----
+
+Size: 18" x 24"
+
+----
+
+Price: 
+
+----
+
+Date: 2017
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 3
+
+----
+
+Uuid: 0dQYVjh1XS0m55dp

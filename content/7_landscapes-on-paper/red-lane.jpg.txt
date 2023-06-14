@@ -1,0 +1,57 @@
+Title: Red lane
+
+----
+
+Name: Five
+
+----
+
+Years: 
+
+----
+
+Medium: oil on paper
+
+----
+
+Description: 
+
+----
+
+Audio: 
+
+----
+
+Text: 
+
+----
+
+Size: 12" x 16"
+
+----
+
+Price: SOLD
+
+----
+
+Date: 2017
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 14
+
+----
+
+Uuid: dj1jlMDZaEvfSBUn

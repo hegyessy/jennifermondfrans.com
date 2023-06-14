@@ -1,9 +1,0 @@
-nav.site-nav {
-  display: flex;
-  flex-direction: column;
-  margin-top: var(--s-default);
-}
-
-nav.site-nav a {
-  margin: var(--s-smallest) 0;
-}

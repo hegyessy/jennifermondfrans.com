@@ -1,0 +1,16 @@
+title: About
+sections:
+  fields:
+    fields:
+      statement:
+        label: Statement
+        type: textarea
+      bio:
+        label: Bio
+        type: textarea
+  files:
+    label: Headshot
+    type: files
+    layout: list
+    size: medium
+    template: bio

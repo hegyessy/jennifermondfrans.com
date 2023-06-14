@@ -1,0 +1,108 @@
+Title: Ada Lovelace
+
+----
+
+Name: Ada Lovelace
+
+----
+
+Description:
+
+Dear You,
+
+
+I never met my father. My mother didn’t want him there when I was born. He died when I was eight. I heard he said my name as he was dying and was distraught he had never held me.
+
+
+It’s strange to think of Lord Byron and my mother being together. Her mind liked to think of theorems and his held the passionate genius of poetry. And it was her mind I was brought up to think like while mathematics was a way to remedy the genetics of my father.
+
+
+Since I was five, my mother demanded discipline in my thinking. She told me my education represented the direct opposite of everything associated with my father: dangerous fancy, melancholy moods, evil, even insanity.
+
+
+She needn’t have worried. I loved mathematics and to those who knew me I had great mathematical power. It was I who sought out Charles Babbage when I was twenty-one and pregnant for the first time. We exchanged many letters and I hungered to know more. I understood how his “Analytical Engine” could weave algebraical patterns just as the Jacquard loom weaved flowers and leaves.
+
+
+I knew that this “Engine” could respond to symbols, not just numbers. But most importantly, I knew that it was the “programmer” and not the machine, who originated everything. I understood the potential of a new, vast powerful language that used rational processing to clarify human thinking and even create music.
+The “Notes” I wrote for Babbage’s Analytical Engine are now understood to describe the heart of artifical intelligence. I am considered the first computer programmer. Who knows what would have happened had I not gotten uterine cancer and died at age 37? Perhaps I would have created work that was not so easily forgotten, which I was, for over a hundred years. And then the U.S Department of Defense named their new computer language Ada, which became the international standard. Now I am remembered.
+
+
+Love,
+
+Ada
+
+----
+
+Toggle: true
+
+----
+
+Lived: 1815-1852
+
+----
+
+Years: 1815-1852
+
+----
+
+Year: 
+
+----
+
+Dimensions: 18" x 24"
+
+----
+
+Medium: acrylic on canvas
+
+----
+
+Text:
+
+Dear You,
+
+I never met my father. My mother didn’t want him there when I was born. He died when I was eight. I heard he said my name as he was dying and was distraught he had never held me.
+
+It’s strange to think of Lord Byron and my mother being together. Her mind liked to think of theorems and his held the passionate genius of poetry. And it was her mind I was brought up to think like while mathematics was a way to remedy the genetics of my father.
+
+Since I was five, my mother demanded discipline in my thinking. She told me my education represented the direct opposite of everything associated with my father: dangerous fancy, melancholy moods, evil, even insanity.
+
+She needn’t have worried. I loved mathematics and to those who knew me I had great mathematical power. It was I who sought out Charles Babbage when I was twenty-one and pregnant for the first time. We exchanged many letters and I hungered to know more. I understood how his “Analytical Engine” could weave algebraical patterns just as the Jacquard loom weaved flowers and leaves.
+
+I knew that this “Engine” could respond to symbols, not just numbers. But most importantly, I knew that it was the “programmer” and not the machine, who originated everything. I understood the potential of a new, vast powerful language that used rational processing to clarify human thinking and even create music.
+
+The “Notes” I wrote for Babbage’s Analytical Engine are now understood to describe the heart of artifical intelligence. I am considered the first computer programmer. Who knows what would have happened had I not gotten uterine cancer and died at age 37? Perhaps I would have created work that was not so easily forgotten, which I was, for over a hundred years. And then the U.S Department of Defense named their new computer language Ada, which became the international standard. Now I am remembered.
+
+Love, Ada
+
+----
+
+Size: 18" x 24"
+
+----
+
+Price: 
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Profession: First Computer Programmer
+
+----
+
+Template: painting
+
+----
+
+Uuid: oospgJrCY91oqXyu
+
+----
+
+Sort: 13

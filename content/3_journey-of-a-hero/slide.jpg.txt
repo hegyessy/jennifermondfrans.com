@@ -1,0 +1,45 @@
+Title: Live!
+
+----
+
+Name: Slide
+
+----
+
+Medium: Oil on canvas
+
+----
+
+Size: 24" x 36"
+
+----
+
+Price: 
+
+----
+
+Description: "Live!" Nietzsche says, "As though the day is here."
+
+----
+
+Year: 
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 5
+
+----
+
+Uuid: OzAwBFgNqIPsIkLs

@@ -1,1 +1,8 @@
-<h1><?= $page->title() ?></h1>
+<?php snippet('header') ?>
+
+  <main>
+    <?php snippet('global-nav') ?>
+    <?= $page->description()->kirbytext() ?>
+  </main>
+
+<?php snippet('footer') ?>

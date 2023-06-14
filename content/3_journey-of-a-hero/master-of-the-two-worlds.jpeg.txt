@@ -1,0 +1,57 @@
+Title: Master of the Two Worlds
+
+----
+
+Description: Based on a photo of an Ethiopian woman soldier during the Italo-Ethiopian war around 1935. Found by Maaza Mengiste, author of the novel, The Shadow King.
+
+----
+
+Featured: true
+
+----
+
+Date: 2020
+
+----
+
+Size: 38" x 48"
+
+----
+
+Medium: Oil on canvas
+
+----
+
+Price:
+
+----
+
+Sold:
+
+----
+
+Toggle: false
+
+----
+
+Name: Master of the Two Worlds
+
+----
+
+Lived:
+
+----
+
+Profession:
+
+----
+
+Sort: 1
+
+----
+
+Uuid: ayi3SmYEGuXeQMTt
+
+----
+
+Template: painting

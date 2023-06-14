@@ -1,0 +1,45 @@
+Title: Bonjour
+
+----
+
+Name: Bonjour!
+
+----
+
+Price: 
+
+----
+
+Text: 
+
+----
+
+Medium: oil on board
+
+----
+
+Size: 12" x 16"
+
+----
+
+Year: 
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 17
+
+----
+
+Uuid: KIQs36ixQQ2u6G3M

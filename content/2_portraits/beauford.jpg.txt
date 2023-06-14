@@ -1,0 +1,53 @@
+Title: Beauford Delaney
+
+----
+
+Description: 
+
+----
+
+Date: 2020
+
+----
+
+Size: 18" x 24"
+
+----
+
+Medium: Oil on unstretched canvas
+
+----
+
+Price: 
+
+----
+
+Sold: 
+
+----
+
+Toggle: false
+
+----
+
+Name: 
+
+----
+
+Lived: 
+
+----
+
+Profession: 
+
+----
+
+Sort: 2
+
+----
+
+Uuid: zMhdxUrH3TSAXg2s
+
+----
+
+Template: painting

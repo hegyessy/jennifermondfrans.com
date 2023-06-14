@@ -1,0 +1,49 @@
+Title: Les Savages
+
+----
+
+Name: Les Savages
+
+----
+
+Yeice-ar: $800
+
+----
+
+Text: 
+
+----
+
+Medium: oil on board
+
+----
+
+Size: 12" x 16"
+
+----
+
+Price: 
+
+----
+
+Year: 
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 7
+
+----
+
+Uuid: nlFB3QWAvovbJL5C

@@ -1,5 +1,5 @@
 {
-	"account.changeName": "Přejmenovat",
+	"account.changeName": "Přejmenovat uživatele",
 	"account.delete": "Smazat účet",
 	"account.delete.confirm": "Opravdu chcete smazat svůj účet? Budete okamžitě odhlášeni. Účet nemůže být zpětně obnoven.",
 
@@ -71,6 +71,8 @@
 	"error.blocks.min.plural": "Musíte přidat alespoň {min} bloků",
 	"error.blocks.min.singular": "Musíte přidat alespoň jeden blok",
 	"error.blocks.validation": "V poli \"{field}\" v bloku {index} je při použití \"{fieldset}\" typu chyba",
+
+	"error.cache.type.invalid": "Neplatný typ cache \"{type}\"",
 
 	"error.email.preset.notFound": "Nelze nalézt emailové přednastavení \"{name}\"",
 
@@ -320,7 +322,7 @@
 	"installation.issues.headline": "Panel nelze nainstalovat",
 	"installation.issues.mbstring": "Je vyžadováno rozšíření<code>MB String</code>",
 	"installation.issues.media": "Složka<code>/media</code> neexistuje, nebo nemá povolený zápis",
-	"installation.issues.php": "Ujistěte se, že používáte<code>PHP 7+</code>",
+	"installation.issues.php": "Ujistěte se, že používáte<code>PHP 8+</code>",
 	"installation.issues.server": "Kirby vyžaduje<code>Apache</code>, <code>Nginx</code> nebo<code>Caddy</code>",
 	"installation.issues.sessions": "Složka<code>/site/sessions</code> neexistuje, nebo nemá povolený zápis",
 
@@ -386,7 +388,7 @@
 	"login.toggleText.password-reset.email": "Zapomenuté heslo?",
 	"login.toggleText.password-reset.email-password": "← Zpět na přihlášení",
 
-	"logout": "Odhl\u00e1sit se",
+	"logout": "Odhlásit se",
 
 	"menu": "Menu",
 	"meridiem": "AM/PM",

@@ -1,0 +1,57 @@
+Title: Ben
+
+----
+
+Description: Binary code reads: "He gives his talent freely to friends"
+
+----
+
+Date: 
+
+----
+
+Size: 22" x 28"
+
+----
+
+Medium: acrylic on board
+
+----
+
+Price: $2,500
+
+----
+
+Sold: 
+
+----
+
+Toggle: false
+
+----
+
+Name: He gives his talents freely to friends.
+
+----
+
+Lived: 
+
+----
+
+Profession: 
+
+----
+
+Story: 
+
+----
+
+Template: painting
+
+----
+
+Uuid: wNwRTj5wMjGQyDhK
+
+----
+
+Sort: 10

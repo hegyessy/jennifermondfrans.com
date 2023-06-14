@@ -1,0 +1,45 @@
+Title: Penelope
+
+----
+
+Name: She has the best laugh.
+
+----
+
+Medium: acrylic on cardboard
+
+----
+
+Size: 22" x 28"
+
+----
+
+Price: 
+
+----
+
+Description: Binary code reads: "She has the best laugh"
+
+----
+
+Date: 2015
+
+----
+
+Story: 
+
+----
+
+Featured: 0
+
+----
+
+Template: painting
+
+----
+
+Sort: 8
+
+----
+
+Uuid: G6OEfQBhHu6isGrE

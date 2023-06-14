@@ -1,0 +1,65 @@
+Title: Melanie Jane
+
+----
+
+Description: 
+
+----
+
+Date: 
+
+----
+
+Size: 12" x 16"
+
+----
+
+Medium: oil on board
+
+----
+
+Price: 
+
+----
+
+Sold: yes
+
+----
+
+Toggle: false
+
+----
+
+Name: Melanie Jane
+
+----
+
+Lived: 
+
+----
+
+Profession: 
+
+----
+
+Text: 
+
+----
+
+Year: 
+
+----
+
+Story: 
+
+----
+
+Template: painting
+
+----
+
+Sort: 20
+
+----
+
+Uuid: iZcNyw1nVSSAjL7r

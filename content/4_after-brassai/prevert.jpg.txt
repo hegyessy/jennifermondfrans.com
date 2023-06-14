@@ -1,0 +1,57 @@
+Title: Jean Prevert
+
+----
+
+Description: 
+
+----
+
+Featured: false
+
+----
+
+Date: 
+
+----
+
+Size: 
+
+----
+
+Medium: oil on board
+
+----
+
+Price: 12" x 16"
+
+----
+
+Sold: 
+
+----
+
+Toggle: false
+
+----
+
+Name: 
+
+----
+
+Lived: 
+
+----
+
+Profession: 
+
+----
+
+Sort: 10
+
+----
+
+Uuid: dfY6fFKA9e7bOG9T
+
+----
+
+Template: painting

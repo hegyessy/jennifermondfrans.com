@@ -1,0 +1,13 @@
+title: Collection
+sections:
+  fields:
+    fields:
+      description:
+        label: Description
+        type: textarea
+  files:
+    label: Collection
+    type: files
+    layout: list
+    size: medium
+    template: painting

@@ -1,0 +1,45 @@
+Title: Pablo Picasso
+
+----
+
+Name: Pablo Picasso
+
+----
+
+Medium: acrylic on canvas
+
+----
+
+Size: 36" x 48"
+
+----
+
+Price: 
+
+----
+
+Featured: 0
+
+----
+
+Text: 
+
+----
+
+Year: 
+
+----
+
+Story: 
+
+----
+
+Template: painting
+
+----
+
+Sort: 13
+
+----
+
+Uuid: Q2am9nz7cflznRlq
