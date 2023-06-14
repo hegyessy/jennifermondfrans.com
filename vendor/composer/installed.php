@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'getkirby/plainkit',
-        'pretty_version' => '3.9.5',
-        'version' => '3.9.5.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '18318e5172e7845c0386a4f1adabd4a2909abf67',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -56,9 +56,9 @@
             'dev_requirement' => false,
         ),
         'getkirby/plainkit' => array(
-            'pretty_version' => '3.9.5',
-            'version' => '3.9.5.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '18318e5172e7845c0386a4f1adabd4a2909abf67',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
