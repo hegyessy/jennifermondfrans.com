@@ -1,20 +1,4 @@
-FROM richarvey/nginx-php-fpm:1.7.2
-
-COPY . .
-
-# Image config
-ENV SKIP_COMPOSER 1
-ENV WEBROOT /var/www/html/public
-ENV PHP_ERRORS_STDERR 1
-ENV RUN_SCRIPTS 1
-ENV REAL_IP_HEADER 1
-
-# Laravel config
-ENV APP_ENV production
-ENV APP_DEBUG false
-ENV LOG_CHANNEL stderr
-
-# Allow composer to run as root
-ENV COMPOSER_ALLOW_SUPERUSER 1
-
-CMD ["/start.sh"]
+FROM webdevops/php-apache-dev:8.1
+RUN apt-get update && apt-get install -y git
+RUN git clone --depth 1 https://github.com/hegyessy/jennifermondfrans.com.git /app
+RUN chown -R application:application /app/
